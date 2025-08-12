@@ -1,4 +1,4 @@
-from core import encryptors
+from passgen_core import encryptors
 
 
 def test_argon2_hash_verify():

@@ -1,4 +1,4 @@
-from core.password_generator import generate_password
+from passgen_core.password_generator import generate_password
 
 
 def test_length_and_groups():
